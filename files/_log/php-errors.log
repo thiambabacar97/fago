@@ -1,0 +1,1133 @@
+[2022-02-01 14:42:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:16] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:16] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:17] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:18] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:19] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:20] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:26] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:27] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:28] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:29] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:29] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:29] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:29] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:29] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:29] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:37] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:38] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:39] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:40] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:41] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:42:41] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:41] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:41] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:42] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:43:42] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:08] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:09] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:10] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:11] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:12] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:12] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:13] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:13] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:14] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:15] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:16] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:16] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:16] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:16] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:20] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:20] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:21] glpiphplog.WARNING:   *** PHP Warning (2): include(./vendor/autoload.php): failed to open stream: No such file or directory in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+[2022-02-01 14:44:21] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening './vendor/autoload.php' for inclusion (include_path='D:\www\php\PEAR') in D:\www\htdocs\fago2\plugins\index.php at line 10
+  Backtrace :
+  plugins\index.php:10                               include()
+  
+2022-02-01 15:08:48 [2@DESKTOP-L8921B7]
+No SAML Response found in POST.
+2022-02-01 15:22:40 [2@DESKTOP-L8921B7]
+No SAML Response found in POST.
+[2022-02-01 16:47:47] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/2002): Aucune connexion n�a pu �tre �tablie car l�ordinateur cible l�a express�ment refus�e.
+ in D:\www\htdocs\fago2\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  plugins\index.php:7                                include()
+  
+[2022-02-01 16:47:52] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/2002): Aucune connexion n�a pu �tre �tablie car l�ordinateur cible l�a express�ment refus�e.
+ in D:\www\htdocs\fago2\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  plugins\index.php:7                                include()
+  
+[2022-02-01 16:47:58] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/2002): Aucune connexion n�a pu �tre �tablie car l�ordinateur cible l�a express�ment refus�e.
+ in D:\www\htdocs\fago2\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  plugins\index.php:7                                include()
+  
+2022-02-01 16:48:44 [2@DESKTOP-L8921B7]
+No SAML Response found in POST.
+2022-02-01 16:48:44 [2@DESKTOP-L8921B7]
+No SAML Response found in POST.
+2022-02-01 16:48:51 [2@DESKTOP-L8921B7]
+No SAML Response found in POST.
+2022-02-01 16:53:55 [@DESKTOP-L8921B7]
+No SAML Response found in POST.

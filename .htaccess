@@ -1,0 +1,25 @@
+
+RewriteEngine On
+RewriteRule ^public/ - [L]
+RewriteRule ^css/ - [L]
+RewriteRule ^js/ - [L]
+RewriteRule ^css_compiled/ - [L]
+RewriteRule ^front/ - [L]
+RewriteRule ^ajax/ - [L]
+RewriteRule ^pics/ - [L]
+RewriteRule ^login/ - [L]
+RewriteRule ^logout/ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# skip all files and directories from rewrite rules below
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d [OR]
+RewriteCond %{HTTP:X-Requested-With} =XMLHttpRequest
+#RewriteRule ^ - [L]
+
+
+RewriteRule (api/(.*)|api)$ restapi.php/$1 
+RewriteRule ^(restapi\.php) - [L] 
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA] 

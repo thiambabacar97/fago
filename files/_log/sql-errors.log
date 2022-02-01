@@ -1,0 +1,1060 @@
+[2022-01-20 13:33:49] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('4', 'plugin_services_provider')
+  Error: Duplicate entry '4-plugin_services_provider' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:277         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:152         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 13:42:37] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago1.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:489            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  front\plugin.form.php:47                           Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 16:37:10] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:491            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  front\plugin.form.php:47                           Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 16:41:37] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:491            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  front\plugin.form.php:47                           Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 16:44:49] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:491            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  front\plugin.form.php:47                           Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:13:20] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:507            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  front\plugin.form.php:47                           Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:27:31] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  front\plugin.form.php:47                           Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('2', 'plugin_services_location')
+  Error: Duplicate entry '2-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('3', 'plugin_services_location')
+  Error: Duplicate entry '3-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('4', 'plugin_services_location')
+  Error: Duplicate entry '4-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('5', 'plugin_services_location')
+  Error: Duplicate entry '5-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('6', 'plugin_services_location')
+  Error: Duplicate entry '6-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('7', 'plugin_services_location')
+  Error: Duplicate entry '7-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('8', 'plugin_services_location')
+  Error: Duplicate entry '8-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:28:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('1', 'plugin_services_location')
+  Error: Duplicate entry '1-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('2', 'plugin_services_location')
+  Error: Duplicate entry '2-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('3', 'plugin_services_location')
+  Error: Duplicate entry '3-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('4', 'plugin_services_location')
+  Error: Duplicate entry '4-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('5', 'plugin_services_location')
+  Error: Duplicate entry '5-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('6', 'plugin_services_location')
+  Error: Duplicate entry '6-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('7', 'plugin_services_location')
+  Error: Duplicate entry '7-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('8', 'plugin_services_location')
+  Error: Duplicate entry '8-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:26] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('1', 'plugin_services_location')
+  Error: Duplicate entry '1-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('2', 'plugin_services_location')
+  Error: Duplicate entry '2-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('3', 'plugin_services_location')
+  Error: Duplicate entry '3-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('4', 'plugin_services_location')
+  Error: Duplicate entry '4-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('5', 'plugin_services_location')
+  Error: Duplicate entry '5-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('6', 'plugin_services_location')
+  Error: Duplicate entry '6-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('7', 'plugin_services_location')
+  Error: Duplicate entry '7-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.004\", 20.30Mio)"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('8', 'plugin_services_location')
+  Error: Duplicate entry '8-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 20.30Mio)"} 
+[2022-01-20 17:30:32] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('1', 'plugin_services_location')
+  Error: Duplicate entry '1-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 20.30Mio)"} 
+[2022-01-20 17:37:11] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('4', 'plugin_services_location')
+  Error: Duplicate entry '4-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:41:03] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_profilerights` (`profiles_id`, `name`) VALUES ('4', 'plugin_services_location')
+  Error: Duplicate entry '4-plugin_services_location' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\profileright.class.php:135                     DBmysql->insert()
+  inc\profile.class.php:3100                         ProfileRight::addProfileRights()
+  plugins\services\inc\profile.class.php:278         Profile->displayRightsChoiceMatrix()
+  plugins\services\inc\profile.class.php:153         PluginServicesProfile->showForm()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `savedsearches_id` FROM `glpi_savedsearches_users` WHERE `users_id` = '2' AND `itemtype` = 'PluginAssistancesTicket'
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\savedsearch_user.class.php:102                 DBmysql->request()
+  inc\search.class.php:6621                          SavedSearch_User::getDefault()
+  plugins\services\inc\html.class.php:4456           Search::manageParams()
+  plugins\services\inc\html.class.php:4439           PluginServicesHtml::searchlist()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickettasks`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3270                      CommonDBTM->getEmpty()
+  inc\commonitiltask.class.php:679                   CommonDBTM->maybePrivate()
+  plugins\services\inc\ticket.class.php:2264         CommonITILTask::rawSearchOptionsToAdd()
+  inc\commondbtm.class.php:3677                      PluginServicesTicket->rawSearchOptions()
+  inc\search.class.php:6920                          CommonDBTM->searchOptions()
+  inc\search.class.php:7076                          Search::getOptions()
+  plugins\services\inc\html.class.php:4480           Search::getActionsFor()
+  plugins\services\inc\html.class.php:4439           PluginServicesHtml::searchlist()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.040\", 23.13Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickettasks`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3270                      CommonDBTM->getEmpty()
+  inc\commonitiltask.class.php:740                   CommonDBTM->maybePrivate()
+  plugins\services\inc\ticket.class.php:2264         CommonITILTask::rawSearchOptionsToAdd()
+  inc\commondbtm.class.php:3677                      PluginServicesTicket->rawSearchOptions()
+  inc\search.class.php:6920                          CommonDBTM->searchOptions()
+  inc\search.class.php:7076                          Search::getOptions()
+  plugins\services\inc\html.class.php:4480           Search::getActionsFor()
+  plugins\services\inc\html.class.php:4439           PluginServicesHtml::searchlist()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.001\", 23.13Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_users`.*, '' AS `transname`, '' AS `transcomment` FROM `glpi_users` WHERE `glpi_users`.`id` = '2'
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\dropdown.class.php:376                         DBmysql->request()
+  plugins\services\inc\html.class.php:4488           Dropdown::getDropdownName()
+  plugins\services\inc\html.class.php:4439           PluginServicesHtml::searchlist()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.028\", 24.35Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `savedsearches_id` FROM `glpi_savedsearches_users` WHERE `users_id` = '2' AND `itemtype` = 'PluginAssistancesTicket'
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\savedsearch_user.class.php:102                 DBmysql->request()
+  inc\search.class.php:6621                          SavedSearch_User::getDefault()
+  plugins\services\inc\search.class.php:1277         Search::manageParams()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.005\", 24.35Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3132                      CommonDBTM->getEmpty()
+  plugins\services\inc\search.class.php:671          CommonDBTM->maybeDeleted()
+  plugins\services\inc\search.class.php:392          PluginServicesSearch::displayCriteria()
+  plugins\services\inc\search.class.php:1279         PluginServicesSearch::showGenericSearch()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 24.35Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_users`.*, '' AS `transname`, '' AS `transcomment` FROM `glpi_users` WHERE `glpi_users`.`id` = '2'
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  plugins\services\inc\dropdown.class.php:522        DBmysql->request()
+  plugins\services\inc\dropdown.class.php:294        PluginServicesDropdown::getDropdownName()
+  plugins\services\inc\ticket.class.php:640          PluginServicesDropdown::showForSearchCriteria()
+  plugins\assistances\inc\ticket.class.php:2094      PluginServicesTicket->getValueToSelect()
+  plugins\services\inc\search.class.php:948          PluginAssistancesTicket->getValueToSelect()
+  plugins\services\inc\search.class.php:853          PluginServicesSearch::displaySearchoptionValue()
+  plugins\services\inc\search.class.php:764          PluginServicesSearch::displaySearchoption()
+  plugins\services\inc\search.class.php:392          PluginServicesSearch::displayCriteria()
+  plugins\services\inc\search.class.php:1279         PluginServicesSearch::showGenericSearch()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.014\", 24.81Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3085                      CommonDBTM->getEmpty()
+  inc\search.class.php:3373                          CommonDBTM->isEntityAssign()
+  plugins\services\inc\search.class.php:1122         Search::addDefaultToView()
+  plugins\services\inc\search.class.php:5000         PluginServicesSearch::prepareDatasForSearch()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.061\", 26.11Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_displaypreferences` WHERE `itemtype` = 'PluginAssistancesTicket' AND ((`users_id` = '2') OR (`users_id` = '0')) ORDER BY `users_id`, `rank`
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\displaypreference.class.php:116                DBmysql->request()
+  plugins\services\inc\search.class.php:1126         DisplayPreference::getForTypeUser()
+  plugins\services\inc\search.class.php:5000         PluginServicesSearch::prepareDatasForSearch()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.006\", 26.19Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3085                      CommonDBTM->getEmpty()
+  inc\search.class.php:566                           CommonDBTM->isEntityAssign()
+  plugins\services\inc\search.class.php:5001         Search::constructSQL()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.007\", 26.19Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3101                      CommonDBTM->getEmpty()
+  inc\search.class.php:3410                          CommonDBTM->maybeRecursive()
+  inc\search.class.php:574                           Search::addDefaultSelect()
+  plugins\services\inc\search.class.php:5001         Search::constructSQL()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 26.19Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3132                      CommonDBTM->getEmpty()
+  inc\search.class.php:632                           CommonDBTM->maybeDeleted()
+  plugins\services\inc\search.class.php:5001         Search::constructSQL()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.003\", 26.19Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets`
+  Error: 
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3196                      CommonDBTM->getEmpty()
+  inc\search.class.php:642                           CommonDBTM->maybeTemplate()
+  plugins\services\inc\search.class.php:5001         Search::constructSQL()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.001\", 26.19Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SET SESSION group_concat_max_len = 16384;
+  Error: 
+  Backtrace :
+  plugins\services\inc\search.class.php:4722         
+  plugins\services\inc\search.class.php:5002         PluginServicesSearch::constructData()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 26.19Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT DISTINCT `glpi_tickets`.`id` AS id, '' AS currentuser,
+                         `glpi_tickets`.`name` AS `ITEM_PluginAssistancesTicket_1`,
+                        `glpi_tickets`.`id` AS `ITEM_PluginAssistancesTicket_1_id`,
+                        `glpi_tickets`.`id` AS `ITEM_PluginAssistancesTicket_1_id`, `glpi_tickets`.`content` AS `ITEM_PluginAssistancesTicket_1_content`, `glpi_tickets`.`status` AS `ITEM_PluginAssistancesTicket_1_status`, `glpi_tickets`.`type` AS `ITEM_PluginAssistancesTicket_14`,   GROUP_CONCAT(DISTINCT `glpi_users_a5e2026cbcb683e774f93a59e24a62a4`.`id` SEPARATOR '$$##$$')
+                                       AS `ITEM_PluginAssistancesTicket_4`,
+                           
+                           `glpi_tickets`.`date_mod` AS `ITEM_PluginAssistancesTicket_19` FROM `glpi_tickets` LEFT JOIN `glpi_tickets_users`  AS `glpi_tickets_users_d1524bb2ea1d461ab90aed3b5f0e7e60`
+                                             ON (`glpi_tickets`.`id` = `glpi_tickets_users_d1524bb2ea1d461ab90aed3b5f0e7e60`.`tickets_id`
+                                                 AND `glpi_tickets_users_d1524bb2ea1d461ab90aed3b5f0e7e60`.`type` = 1 )LEFT JOIN `glpi_users`  AS `glpi_users_a5e2026cbcb683e774f93a59e24a62a4`
+                                          ON (`glpi_tickets_users_d1524bb2ea1d461ab90aed3b5f0e7e60`.`users_id` = `glpi_users_a5e2026cbcb683e774f93a59e24a62a4`.`id`
+                                              ) WHERE    (`glpi_tickets`.`type` = '1')  AND (`glpi_users_a5e2026cbcb683e774f93a59e24a62a4`.`id` = '2')   GROUP BY `glpi_tickets`.`id` ORDER BY `ITEM_PluginAssistancesTicket_19` DESC 
+  Error: 
+  Backtrace :
+  plugins\services\inc\search.class.php:4736         
+  plugins\services\inc\search.class.php:5002         PluginServicesSearch::constructData()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.002\", 26.19Mio)"} 
+[2022-01-20 17:56:42] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW WARNINGS
+  Error: 
+  Backtrace :
+  plugins\services\inc\search.class.php:4738         
+  plugins\services\inc\search.class.php:5002         PluginServicesSearch::constructData()
+  plugins\services\inc\search.class.php:2510         PluginServicesSearch::getDatas()
+  plugins\services\inc\search.class.php:1283         PluginServicesSearch::showListFago()
+  plugins\services\inc\html.class.php:4441           PluginServicesSearch::showFago()
+  plugins\assistances\inc\ticket.class.php:997       PluginServicesHtml::showList()
+  plugins\services\router\router.php:76              PluginAssistancesTicket->showList()
+  index.php:63                                       require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.006\", 26.19Mio)"} 
+[2022-01-21 17:51:07] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT COUNT(*) AS cpt FROM `glpi_knowbaseitems` LEFT JOIN `glpi_knowbaseitems_users` ON (`glpi_knowbaseitems_users`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) LEFT JOIN `glpi_groups_knowbaseitems` ON (`glpi_groups_knowbaseitems`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) LEFT JOIN `glpi_knowbaseitems_profiles` ON (`glpi_knowbaseitems_profiles`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) LEFT JOIN `glpi_entities_knowbaseitems` ON (`glpi_entities_knowbaseitems`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) WHERE ((MATCH(`glpi_knowbaseitems`.`name`,
+                        `glpi_knowbaseitems`.`answer`)
+                        AGAINST('Demande* de* création* d\\\'un* nouveau* utilisateur* *' IN BOOLEAN MODE))) AND ((((`glpi_knowbaseitems`.`begin_date` IS NULL) OR (`glpi_knowbaseitems`.`begin_date` < NOW()))) AND (((`glpi_knowbaseitems`.`end_date` IS NULL) OR (`glpi_knowbaseitems`.`end_date` > NOW()))))
+  Error: syntax error, unexpected $end, expecting FTS_TERM or FTS_NUMB or '*'
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\knowbaseitem.class.php:1324                    DBmysql->request()
+  inc\knowbaseitem.class.php:1435                    KnowbaseItem::getListRequest()
+  inc\knowbase.class.php:135                         KnowbaseItem::showList()
+  inc\knowbase.class.php:82                          Knowbase::showSearchView()
+  inc\commonglpi.class.php:637                       Knowbase::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-21 17:51:07] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_knowbaseitems`.*, `glpi_knowbaseitemcategories`.`completename` AS `category`, COUNT(`glpi_knowbaseitems_users`.`id`) + COUNT(`glpi_groups_knowbaseitems`.`id`) + COUNT(`glpi_knowbaseitems_profiles`.`id`) + COUNT(`glpi_entities_knowbaseitems`.`id`) AS `visibility_count`, (MATCH(`glpi_knowbaseitems`.`name`, `glpi_knowbaseitems`.`answer`)
+                           AGAINST('Demande* de* création* d\\\'un* nouveau* utilisateur* *' IN BOOLEAN MODE) ) AS SCORE  FROM `glpi_knowbaseitems` LEFT JOIN `glpi_knowbaseitems_users` ON (`glpi_knowbaseitems_users`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) LEFT JOIN `glpi_groups_knowbaseitems` ON (`glpi_groups_knowbaseitems`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) LEFT JOIN `glpi_knowbaseitems_profiles` ON (`glpi_knowbaseitems_profiles`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) LEFT JOIN `glpi_entities_knowbaseitems` ON (`glpi_entities_knowbaseitems`.`knowbaseitems_id` = `glpi_knowbaseitems`.`id`) LEFT JOIN `glpi_knowbaseitemcategories` ON (`glpi_knowbaseitemcategories`.`id` = `glpi_knowbaseitems`.`knowbaseitemcategories_id`) WHERE (((`glpi_knowbaseitems`.`name` LIKE '%Demande de création d\'un nouveau utilisateur%') OR (`glpi_knowbaseitems`.`answer` LIKE '%Demande de création d\'un nouveau utilisateur%'))) AND ((((`glpi_knowbaseitems`.`begin_date` IS NULL) OR (`glpi_knowbaseitems`.`begin_date` < NOW()))) AND (((`glpi_knowbaseitems`.`end_date` IS NULL) OR (`glpi_knowbaseitems`.`end_date` > NOW())))) GROUP BY `glpi_knowbaseitems`.`id`, `glpi_knowbaseitemcategories`.`completename` ORDER BY `SCORE` DESC
+  Error: syntax error, unexpected $end, expecting FTS_TERM or FTS_NUMB or '*'
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\knowbaseitem.class.php:1437                    DBmysql->request()
+  inc\knowbase.class.php:135                         KnowbaseItem::showList()
+  inc\knowbase.class.php:82                          Knowbase::showSearchView()
+  inc\commonglpi.class.php:637                       Knowbase::displayTabContentForItem()
+  ajax\common.tabs.php:106                           CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.014\", 17.83Mio)"} 
+[2022-01-24 12:09:43] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  front\plugin.form.php:47                           Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-26 15:23:39] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_useremails` (`email`, `users_id`, `is_default`) VALUES ('glpi', '1358', '0')
+  Error: Duplicate entry '1358-glpi' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\user.class.php:1282                            CommonDBTM->add()
+  inc\user.class.php:909                             User->updateUserEmails()
+  inc\commondbtm.class.php:1601                      User->post_updateItem()
+  plugins\services\inc\user.class.php:851            CommonDBTM->update()
+  plugins\services\router\router.php:53              PluginServicesUser->postForm()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-27 16:10:14] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-27 17:03:38] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3738                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-27 17:03:38] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3750                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.006\", 18.00Mio)"} 
+[2022-01-27 17:04:04] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3738                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-27 17:04:04] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3750                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.005\", 18.00Mio)"} 
+[2022-01-28 10:27:59] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_plugin_assistances_profiles` WHERE `glpi_plugin_assistances_profiles`.`id` = '4' LIMIT 1
+  Error: Table 'fago.glpi_plugin_assistances_profiles' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  plugins\assistances\inc\profile.class.php:91       CommonDBTM->getFromDB()
+  plugins\services\inc\profile.class.php:164         PluginAssistancesProfile->showFormFagoTracking()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  plugins\services\ajax\common.tabs.php:106          CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-28 10:28:07] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_plugin_assistances_profiles` WHERE `glpi_plugin_assistances_profiles`.`id` = '4' LIMIT 1
+  Error: Table 'fago.glpi_plugin_assistances_profiles' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  plugins\assistances\inc\profile.class.php:91       CommonDBTM->getFromDB()
+  plugins\services\inc\profile.class.php:164         PluginAssistancesProfile->showFormFagoTracking()
+  inc\commonglpi.class.php:637                       PluginServicesProfile::displayTabContentForItem()
+  plugins\services\ajax\common.tabs.php:106          CommonGLPI::displayStandardTab()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-28 13:14:41] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3738                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-28 13:14:41] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3750                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.005\", 17.67Mio)"} 
+[2022-01-28 13:33:53] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-28 13:57:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3738                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-28 13:57:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_plugin_services_profilerights`
+  Error: Table 'fago.glpi_plugin_services_profilerights' doesn't exist
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:500                       DBmysql->listFields()
+  inc\commondbtm.class.php:3361                      CommonDBTM->getEmpty()
+  inc\commondbtm.class.php:3750                      CommonDBTM->isField()
+  inc\commondbtm.class.php:3677                      CommonDBTM->rawSearchOptions()
+  plugins\services\inc\relatedlist.class.php:146     CommonDBTM->searchOptions()
+  plugins\services\inc\relatedlist.class.php:216     PluginServicesRelatedlist::getSearchOptionByFields()
+  plugins\services\inc\relatedlist.class.php:332     PluginServicesRelatedlist->getItemLink()
+  plugins\services\inc\relatedlist.class.php:264     PluginServicesRelatedlist->showFormGlobal()
+  plugins\services\router\router.php:85              PluginServicesRelatedlist->showList()
+  plugins\services\index.php:13                      require()
+  {"user":"2@DESKTOP-L8921B7","mem_usage":"0.011\", 18.26Mio)"} 
+[2022-01-28 17:51:43] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-31 10:47:39] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-31 10:52:33] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-31 11:13:54] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-31 11:48:34] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-31 11:56:25] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_plugin_services_menus`.`id` FROM `glpi_plugin_services_menus` WHERE `plugin_name` = 'services'
+  Error: Table 'fago.glpi_plugin_services_menus' doesn't exist
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:4431                      DBmysql->request()
+  plugins\services\inc\menu.class.php:493            CommonDBTM->deleteByCriteria()
+  plugins\services\hook.php:238                      PluginServicesMenu::uninstall()
+  inc\plugin.class.php:667                           plugin_services_uninstall()
+  plugins\services\front\plugin.form.php:47          Plugin->uninstall()
+  {"user":"2@DESKTOP-L8921B7"} 
+[2022-01-31 19:02:07] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_plugin_services_themes` WHERE `active` = '1'
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:469                       DBmysql->request()
+  plugins\services\login\index.php:25                CommonDBTM->find()
+  {"user":"@DESKTOP-L8921B7"} 
+[2022-01-31 19:02:07] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_authldaps` WHERE `is_active` = '1' ORDER BY `name`
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\auth.class.php:1671                            DBmysql->request()
+  inc\auth.class.php:1704                            Auth::getLoginAuthMethods()
+  plugins\services\login\index.php:148               Auth::dropdownLogin()
+  {"user":"@DESKTOP-L8921B7","mem_usage":"0.004\", 16.63Mio)"} 
+[2022-01-31 19:02:07] glpisqllog.ERROR: DBmysql::query() in D:\www\htdocs\fago1\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_authmails` WHERE `is_active` = '1' ORDER BY `name`
+  Error: 
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\auth.class.php:1687                            DBmysql->request()
+  inc\auth.class.php:1704                            Auth::getLoginAuthMethods()
+  plugins\services\login\index.php:148               Auth::dropdownLogin()
+  {"user":"@DESKTOP-L8921B7","mem_usage":"0.002\", 16.63Mio)"} 
